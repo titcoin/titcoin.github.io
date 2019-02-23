@@ -861,7 +861,7 @@ select {
   position: relative;
   width: 100%;
   background-image: url("../images/red-bra.jpg");
-  box-shadow: 0 4px 11px rgba(124, 146, 169, 0.5);
+  box-shadow: 0 4px 11px black;
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -874,7 +874,7 @@ select {
   position: absolute;
   height: 100%;
   width: 100%;
-  opacity: 0.85;
+  opacity: 0.7;
   z-index: 1;
   background-color: #111111; }
 
@@ -892,7 +892,7 @@ select {
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
-  opacity: 0.66;
+  opacity: 1;
   z-index: 2; }
 
 .hero__content {
@@ -1220,7 +1220,7 @@ select {
 .page__header {
   position: relative;
   color: #ffffff;
-  box-shadow: 0 4px 11px rgba(124, 146, 169, 0.5);
+  box-shadow: 0 4px 11px black;
   width: 100%; }
 
 .page__header__inner {
@@ -1279,7 +1279,7 @@ select {
 .app__header {
   position: relative;
   color: #ffffff;
-  box-shadow: 0 4px 11px rgba(124, 146, 169, 0.5);
+  box-shadow: 0 4px 11px black;
   width: 100%; }
 
 .app__header__inner {
