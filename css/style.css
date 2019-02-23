@@ -461,13 +461,13 @@ button, .button {
       color: #fff; } }
 
 .button__accent {
-  background-color: #f25b21;
-  border-color: #f25b21;
+  background-color: #d6001e;
+  border-color: #d6001e;
   color: #fff; }
   @media (min-width: 992px) {
     .button__accent:hover {
-      background-color: #f14d0e;
-      border-color: #f14d0e;
+      background-color: #c2001b;
+      border-color: #c2001b;
       color: #fff; } }
 
 .button__delete {
@@ -716,8 +716,8 @@ select {
   height: 18px;
   border-top: 2px solid transparent;
   border-left: 2px solid transparent;
-  border-right: 2px solid #f25b21;
-  border-bottom: 2px solid #f25b21;
+  border-right: 2px solid #d6001e;
+  border-bottom: 2px solid #d6001e;
   transform: rotate(40deg);
   backface-visibility: hidden;
   transform-origin: 100% 100%; }
