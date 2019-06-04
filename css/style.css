@@ -350,10 +350,6 @@ img, svg {
     margin-left: auto;
     margin-right: auto; }
 
-.text-container a {
-  color: #dc3f1d;
-  border-bottom: 1px solid #dc3f1d; }
-
 .margin-right {
   margin-right: 8pt; }
 
@@ -1334,6 +1330,11 @@ select {
 
 .app__image {
   max-width: 100%; }
+
+.app__main__subtitle {
+  padding-top: calc( 81.33333px);
+  margin-top: calc( -29pt);
+  margin-bottom: 16pt; }
 
 /* Vertical menu */
 .vMenu {
