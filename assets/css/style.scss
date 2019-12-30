@@ -1,0 +1,17 @@
+---
+---
+
+$section-headings-color: #b30000;
+$header-bg-color: #ffffff;
+
+@import "{{ site.theme }}";
+
+.page-header {
+	background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("red-bra.jpg");
+	background-position: center; /* Center the image */
+	background-repeat: no-repeat; /* Do not repeat the image */
+	background-size: cover; /* Resize the background image to cover the entire container */
+	//height: 500px; /* You must set a specified height */
+
+
+}
