@@ -27,6 +27,7 @@ Titcoin has supporters all over the internet! You can join us via one of the bel
 
 * [Reddit](https://www.reddit.com/r/showmytitcoin/)
 * [Bitcointalk ANN](https://bitcointalk.org/index.php?topic=5018869.0)
+* [Discord](https://discord.gg/PADaP7s)
 
 # Download
 
