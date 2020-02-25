@@ -4,13 +4,13 @@ layout: default
 
 # Welcome to Titcoin!
 
-Titcoin is a Bitcoin-based cryptocurrency for the adult industry and for the amateur pornography community.
+Titcoin is a Bitcoin-based cryptocurrency for the adult industry and for the amateur pornography community. The core values of our community are freedom and tolerance.
 
 The project was started in January 2014, which makes Titcoin one of the first altcoins that were created after Bitcoin and one of the oldest cryptocurrencies that are still active today!
 
-Titcoin does not aim to be a serious general purpose currency, but rather exists for the fun of it. ;) Possible use cases for Titcoin include:
+Titcoin is not a general purpose cryptocurrency, but is method for transferring value inside our Titcoin community. Possible use cases for Titcoin include:
 
-* Tipping amateur pornography creators
+* Tipping your favorite amateur pornography creators
 * Buying content from premium porn sites
 * Tipping on webcam sites
 * Buying Titcoin merchandise with Titcoin
@@ -21,13 +21,11 @@ Titcoin does not aim to be a serious general purpose currency, but rather exists
 
 # Community
 
-The largest part of the Titcoin community is active on Reddit, in the [ShowMyTitCoin](https://www.reddit.com/r/showmytitcoin/) subreddit. It's a subreddit where girls can upload selfmade nudes and receive titcoins in return! It's a lot of fun for everyone. ;)
+The majority of the action is happening on our Discord, where users are posting self-made pornography and are getting tipped by other community members. In order to get started, you can join our Discord and request some free titcoins. Having said that, Titcoin has supporters all over the internet! If you find any other places that should be added here, please let us know! ;)
 
-Titcoin has supporters all over the internet! You can join us via one of the below sites, and request some free titcoins as a welcome gift :)
-
+* [Discord](https://discord.gg/PADaP7s)
 * [Reddit](https://www.reddit.com/r/showmytitcoin/)
 * [Bitcointalk ANN](https://bitcointalk.org/index.php?topic=5018869.0)
-* [Discord](https://discord.gg/PADaP7s)
 
 # Download
 
@@ -80,12 +78,10 @@ Not yet! Feel free to create one :)
 
 ### How does Titcoin work?
 
-You can do many fun things with Titcoin, but if you are looking for an example use case we would recommend you to look at our subreddit [ShowMyTitCoin](https://www.reddit.com/r/showmytitcoin/) and the associated [subreddit wiki](https://www.reddit.com/r/showmytitcoin/wiki/index).
+You can do many fun things with Titcoin, but if you are looking for an example use case we would recommend you to look at our subreddit [ShowMyTitCoin](https://www.reddit.com/r/showmytitcoin/?f=flair_name%3A%22Titcoin%22) and the associated [subreddit wiki](https://www.reddit.com/r/showmytitcoin/wiki/index).
 
 For more details about Titcoin usage, see the [Wallet usage](https://www.reddit.com/r/showmytitcoin/wiki/wallet_usage) article in that wiki!
 
 # Getting in contact
 
-If you want to get in contact with the Titcoin community, please join our [Titcoin chat](https://www.reddit.com/chat/r/showmytitcoin/channel/30327557_b06ca1f44df829a8136fb306803672da19fc0870) on Reddit!
-
-If you want to get in contact with the developer of Titcoin, please PM [/u/bitcoinx2](https://www.reddit.com/user/bitcoinx2) on Reddit or [Gandalf86](https://bitcointalk.org/index.php?action=profile;u=718389) on Bitcointalk.
+If you want to get in contact with the Titcoin community, please join our Discord and say hello! Titcoin is an open community and not a company, so we don't have any "official" contacts. This website, the Github repository and the above Discord are managed by Gandalf86, but you are free to create your own ones!
