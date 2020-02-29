@@ -21,11 +21,12 @@ Titcoin is not a general purpose cryptocurrency, but a method for transferring v
 
 # Community
 
-In order to get started, you can join our Discord and request some free titcoins. Titcoin has supporters all over the internet! If you find any other places that should be added here, please let us know! ;)
+Titcoin has supporters all over the internet! If you find any other places that should be added here, please let us know! ;)
 
-* [Discord](https://discord.gg/PADaP7s)
-* [Reddit](https://www.reddit.com/r/titcoin/)
-* [Bitcointalk ANN](https://bitcointalk.org/index.php?topic=5018869.0)
+* [Discord](https://discord.gg/PADaP7s): Our main community chat. Here you can discuss about Titcoin, ask questions or post self-made nudes and ask to get tipped with Titcoin! ;)
+* [Reddit (Titcoin)](https://www.reddit.com/r/titcoin/): Discussion board on Reddit.
+* [Reddit (ShowMyTitCoin)](https://www.reddit.com/r/ShowMyTitCoin/): A place where girls can post self-made pornography and request tips using Titcoin.
+* [Bitcointalk ANN](https://bitcointalk.org/index.php?topic=5018869.0): Announcement of the continued Titcoin project on the Bitcointalk forum.
 
 # Download
 
