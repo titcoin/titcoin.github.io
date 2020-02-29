@@ -21,10 +21,10 @@ Titcoin is not a general purpose cryptocurrency, but a method for transferring v
 
 # Community
 
-The majority of the action is happening on our Discord, where users are posting self-made pornography and are getting tipped by other community members. In order to get started, you can join our Discord and request some free titcoins. Having said that, Titcoin has supporters all over the internet! If you find any other places that should be added here, please let us know! ;)
+In order to get started, you can join our Discord and request some free titcoins. Titcoin has supporters all over the internet! If you find any other places that should be added here, please let us know! ;)
 
 * [Discord](https://discord.gg/PADaP7s)
-* [Reddit](https://www.reddit.com/r/showmytitcoin/)
+* [Reddit](https://www.reddit.com/r/titcoin/)
 * [Bitcointalk ANN](https://bitcointalk.org/index.php?topic=5018869.0)
 
 # Download
@@ -50,11 +50,8 @@ Here is some technical info for those who are interested in it:
 
 Block explorers:
 * [Blockexperts](https://www.blockexperts.com/tit)
-* [ProHashing](https://prohashing.com/explorer/Titcoin/)
 
 Mining pools:
-* [ProHashing](https://prohashing.com/explorer/Titcoin/)
-* [FairPool](https://fairpool.pro/site/coins?coin=TIT)
 * [Mining-Dutch](https://www.mining-dutch.nl/pools/titcoin.php?page=statistics&action=pool)
 * [TheCoin.pw](https://tit.thecoin.pw/)
 
@@ -84,4 +81,4 @@ For more details about Titcoin usage, see the [Wallet usage](https://www.reddit.
 
 # Getting in contact
 
-If you want to get in contact with the Titcoin community, please join our Discord and say hello! Titcoin is an open community and not a company, so we don't have any "official" contacts. This website, the Github repository and the above Discord are managed by Gandalf86, but you are free to create your own ones!
+If you want to get in contact with the Titcoin community, please join our Discord and say hello! Titcoin is an open community and not a company, so we don't have any "official" contacts. This website, the Github repository and the above Discord are managed by community member Gandalf86.
