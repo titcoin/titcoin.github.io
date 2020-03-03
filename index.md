@@ -76,9 +76,9 @@ Not yet! Feel free to create one :)
 
 ### How does Titcoin work?
 
-You can do many fun things with Titcoin, but if you are looking for an example use case we would recommend you to look at our subreddit [ShowMyTitCoin](https://www.reddit.com/r/showmytitcoin/?f=flair_name%3A%22Titcoin%22) and the associated [subreddit wiki](https://www.reddit.com/r/showmytitcoin/wiki/index).
+You can do many fun things with Titcoin, but if you are looking for an example use case we would recommend you to look at our subreddit [ShowMyTitCoin](https://www.reddit.com/r/showmytitcoin/?f=flair_name%3A%22Titcoin%22), where girls can post their Titcoin address and get tipped for posting nudes!
 
-For more details about Titcoin usage, see the [Wallet usage](https://www.reddit.com/r/showmytitcoin/wiki/wallet_usage) article in that wiki!
+In order to get started you can read the tutorial in our [Titcoin wiki](https://github.com/titcoin/doc/wiki).
 
 # Getting in contact
 
