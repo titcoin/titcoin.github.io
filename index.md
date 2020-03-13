@@ -8,7 +8,7 @@ Titcoin is a Bitcoin-based cryptocurrency for the adult industry and for the ama
 
 The project was started in January 2014, which makes Titcoin one of the first altcoins that were created after Bitcoin and one of the oldest cryptocurrencies that are still active today!
 
-Titcoin is not a general purpose cryptocurrency, but a method for transferring value within our Titcoin community. Possible use cases for Titcoin include:
+Titcoin is not a general purpose cryptocurrency but the _internal_ currency of the Titcoin community. Use cases for Titcoin include:
 
 * Tipping your favorite amateur pornography creators
 * Buying content from premium porn sites
@@ -21,7 +21,7 @@ Titcoin is not a general purpose cryptocurrency, but a method for transferring v
 
 # Community
 
-Titcoin has supporters all over the internet! If you find any other places that should be added here, please let us know! ;)
+Titcoin has supporters all over the internet! Everybody can join, we are a diverse and open community with different backgrounds and motivations. If you find any other places that should be added here, please let us know! ;)
 
 * [Discord](https://discord.gg/PADaP7s): Our main community chat. Here you can discuss about Titcoin, ask questions or post self-made nudes and ask to get tipped with Titcoin! ;)
 * [Reddit (Titcoin)](https://www.reddit.com/r/titcoin/): Discussion board on Reddit.
