@@ -78,6 +78,12 @@ You can do many fun things with Titcoin, but if you are looking for an example u
 
 In order to get started you can read the tutorial in our [Titcoin wiki](https://github.com/titcoin/doc/wiki).
 
+### Why can't I just use Bitcoin, Litecoin, Monero etc.?
+
+You can, but Titcoin has its own independent price that is driven by the adoption of cryptocurrencies in the XXX scene. So on the long term, we expect many people who sell adult products/services to prefer Titcoin over general purpose currencies.
+
+Additionally, you can get free titcoins by posting nudes on our Discord, which is not possible with other cryptocurrencies. ;)
+
 # Getting in contact
 
 If you want to get in contact with the Titcoin community, please join our Discord and say hello! Titcoin is an open community and not a company, so we don't have any "official" contacts. This website, the Github repository and the above Discord are managed by community member Gandalf86.
