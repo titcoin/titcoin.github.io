@@ -80,9 +80,9 @@ In order to get started you can read the tutorial in our [Titcoin wiki](https://
 
 ### Why can't I just use Bitcoin, Litecoin, Monero etc.?
 
-You can, but Titcoin has its own independent price that is driven by the adoption of cryptocurrencies in the XXX scene. So on the long term, we expect many people who sell adult products/services to prefer Titcoin over general purpose currencies.
+You can, but using Titcoin is more fun! ;) Also, girls can get free titcoins by posting nudes in our Discord, which is not possible with other cryptocurrencies.
 
-Additionally, you can get free titcoins by posting nudes on our Discord, which is not possible with other cryptocurrencies. ;)
+On a more serious note, we believe that domain-specific currencies like Titcoin do have their place because they have an exchange rate that is independent of larger cryptocurrencies. Like in the real world, having independent currencies can accelerate innovation in certain sub-economies such as the adult industry in our case.
 
 # Getting in contact
 
