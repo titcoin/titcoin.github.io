@@ -12,7 +12,7 @@ Titcoin is not a general purpose currency like Bitcoin, but is exclusively being
 
 * Trading nudes and custom content
 * Incentivizing the creation of amateur pornography
-* Tipping and supporting your favorite amateur pornography creators
+* Tipping and supporting your favorite content creators
 * Buying and selling Titcoin merchandise
 * Promoting the use of cryptocurrencies in the adult entertainment scene
 
