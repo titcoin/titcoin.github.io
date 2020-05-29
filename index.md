@@ -10,11 +10,10 @@ The project was started in January 2014, which makes Titcoin one of the first al
 
 Titcoin is not a general purpose currency like Bitcoin, but is exclusively being used for trading pictures, videos and other adult related things. Use cases for Titcoin include:
 
+* Trading nudes and custom content
+* Incentivizing the creation of amateur pornography
 * Tipping and supporting your favorite amateur pornography creators
-* Enabling more people to start earning money with self-made pornography
 * Buying and selling Titcoin merchandise
-* Incentivizing women to show off their tits on social media
-* Enabling women to pay for drinks by showing their tits ;)
 * Promoting the use of cryptocurrencies in the adult entertainment scene
 
 # Community
