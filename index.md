@@ -52,11 +52,9 @@ Block explorers:
 
 Mining pools:
 * [Mining-Dutch](https://www.mining-dutch.nl/pools/titcoin.php?page=statistics&action=pool)
-* [TheCoin.pw](https://tit.thecoin.pw/)
 
 Exchanges:
-* [Yobit](https://yobit.net/en/trade/TIT/BTC)
-* [TheCoin.pw](https://exchange.thecoin.pw)
+* [Yobit](https://yobit.net/en/trade/TIT/BTC) (currently in maintenance)
 
 # FAQ
 
