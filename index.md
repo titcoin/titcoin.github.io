@@ -50,7 +50,9 @@ Block explorers:
 * [Blockexperts](https://www.blockexperts.com/tit)
 
 Mining pools:
-* [Mining-Dutch](https://www.mining-dutch.nl/pools/titcoin.php?page=statistics&action=pool)
+* [Cminor's pool](http://titcoin.cminors-pool.com/)
+* [KriptoKyng](https://kriptokyng.com/)
+* [Mining-Dutch](https://www.mining-dutch.nl/pools/titcoin.php?page=statistics&action=pool) (going to be delisted)
 
 Exchanges:
 * [Yobit](https://yobit.net/en/trade/TIT/BTC) (currently in maintenance)
