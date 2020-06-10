@@ -48,6 +48,7 @@ Here is some technical info for those who are interested in it:
 
 Block explorers:
 * [Blockexperts](https://www.blockexperts.com/tit)
+* [KriptoKyng](https://kriptokyng.com/site/block?id=1447)
 
 Mining pools:
 * [Cminor's pool](http://titcoin.cminors-pool.com/)
