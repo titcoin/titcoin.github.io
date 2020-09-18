@@ -58,7 +58,9 @@ Mining pools:
 * [GrossCrypto](https://grosscrypto.com/)
 
 Exchanges:
-* [Yobit](https://yobit.net/en/trade/TIT/BTC) (currently in maintenance)
+* [Unnamed Exchange](https://www.unnamed.exchange/Exchange/Basic?market=TIT_BTC) (recommended)
+   * Also features LTC, DOGE, ETH, XMR and USDT pairs
+* [Yobit](https://yobit.net/en/trade/TIT/BTC) (unmaintained, do not use!)
 
 # FAQ
 
