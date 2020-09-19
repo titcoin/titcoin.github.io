@@ -31,8 +31,8 @@ In order to use Titcoin, you need to download and install the Titcoin wallet on 
 
 The Titcoin wallet is free of viruses and 100% open source. You can look at the source code on [Github](https://github.com/titcoin/titcoin/).
 
-* Windows (full): [titcoin-0.16.3.4-win64-setup.exe](https://github.com/titcoin/titcoin/releases/download/v0.16.3-titcoin4/titcoin-0.16.3.4-win64-setup.exe)
-* Windows (standalone): [titcoin-0.16.3.4.exe](https://github.com/titcoin/titcoin/releases/download/v0.16.3-titcoin4/titcoin-0.16.3.4.exe)
+* Windows (full installation): [titcoin-0.16.3.4-win64-setup.exe](https://github.com/titcoin/titcoin/releases/download/v0.16.3-titcoin4/titcoin-0.16.3.4-win64-setup.exe)
+* Windows (no installation): [titcoin-0.16.3.4.exe](https://github.com/titcoin/titcoin/releases/download/v0.16.3-titcoin4/titcoin-0.16.3.4.exe)
 * Mac OS: [Titcoin-0.16.3.4.dmg](https://github.com/titcoin/titcoin/releases/download/v0.16.3-titcoin4/Titcoin-0.16.3.4.dmg)
 * Linux: [titcoin-0.16.3.4.tar.gz](https://github.com/titcoin/titcoin/releases/download/v0.16.3-titcoin4/titcoin-0.16.3.4.tar.gz)
 * Source Code: [v0.16.3-titcoin4.zip](https://github.com/titcoin/titcoin/archive/v0.16.3-titcoin4.zip)
