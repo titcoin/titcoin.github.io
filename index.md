@@ -37,7 +37,7 @@ The Titcoin wallet is free of viruses and 100% open source. You can look at the 
 * Linux: [titcoin-0.16.3.4.tar.gz](https://github.com/titcoin/titcoin/releases/download/v0.16.3-titcoin4/titcoin-0.16.3.4.tar.gz)
 * Source Code: [v0.16.3-titcoin4.zip](https://github.com/titcoin/titcoin/archive/v0.16.3-titcoin4.zip)
 
-# Technical stuff
+# Technical info
 
 Here is some technical info for those who are interested in it:
 
@@ -61,6 +61,10 @@ Exchanges:
 * [Unnamed Exchange](https://www.unnamed.exchange/Exchange/Basic?market=TIT_BTC) (recommended)
    * Also features LTC, DOGE, ETH, XMR and USDT pairs
 * [Yobit](https://yobit.net/en/trade/TIT/BTC) (unmaintained, do not use!)
+
+# Partners
+
+* Daniela's Promo Network
 
 # FAQ
 
