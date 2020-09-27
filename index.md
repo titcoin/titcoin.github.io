@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Titcoin
+description: The adult cryptocurrency
 ---
 
 # Welcome to Titcoin!
