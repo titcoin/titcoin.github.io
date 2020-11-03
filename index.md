@@ -10,13 +10,13 @@ Titcoin is a Bitcoin-based cryptocurrency that aims to revolutionize the world o
 
 The project was started in January 2014, which makes Titcoin one of the first altcoins that were created after Bitcoin and one of the oldest cryptocurrencies that are still active today!
 
-Titcoin is not a general purpose currency like Bitcoin, but is exclusively being used for trading pictures, videos and other adult related things. Use cases for Titcoin include:
+Titcoin is not a general purpose currency like Bitcoin, but is exclusively being used for trading pictures, videos and other adult related things. The goals of Titcoin include, but are not limited to:
 
-* Trading nudes and custom content
-* Incentivizing the creation of amateur pornography
-* Tipping and supporting your favorite content creators
-* Buying and selling Titcoin merchandise
-* Promoting the use of cryptocurrencies in the adult entertainment scene
+* Promoting the idea of paying for pornography
+* Advancing the adaption of cryptocurrencies in the adult entertainment scene
+* Un-stigmatizing the creation of amateur pornography
+* Encouraging interaction between consumers and content creators
+* Providing newcomers a fun entry into the world of cryptocurrencies!
 
 # Community
 
