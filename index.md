@@ -58,7 +58,8 @@ Here is some technical info for those who are interested in it:
 * Current supply: ~66 million
 
 Block explorers:
-* [KriptoKyng](https://kriptokyng.com/explorer/TIT)
+
+* Currently none
 
 Mining pools:
 * [Cminor's pool](http://titcoin.cminors-pool.com/)
