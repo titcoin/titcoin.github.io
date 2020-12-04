@@ -12,7 +12,7 @@ The project was started in January 2014, which makes Titcoin one of the first al
 
 Titcoin is not a general purpose currency like Bitcoin, but is exclusively being used for trading pictures, videos and other adult related things. The goals of Titcoin include, but are not limited to:
 
-* Promoting the idea of paying for pornography
+* Promoting the idea of [paying for pornography](https://www.pornhub.com/view_video.php?viewkey=ph5f0652e1a525b)
 * Advancing the adaption of cryptocurrencies in the adult entertainment scene
 * Un-stigmatizing the creation of amateur pornography
 * Encouraging interaction between consumers and content creators
