@@ -84,7 +84,7 @@ No. Titcoin exists since 2014 and is entirely operated by volunteers. We never a
 
 ### Do you have a mobile app?
 
-Not yet! Feel free to create one :)
+Our plan is to get added to existing multi-coin mobile wallets, as this will provide the best user experience for most people. A standalone Titcoin app is not planned at the moment.
 
 ### How does Titcoin work?
 
