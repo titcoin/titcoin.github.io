@@ -55,7 +55,7 @@ Here is some technical info for those who are interested in it:
 * Retarget: Every block
 * Block time: 1 Min
 * Max supply: 69 million
-* Current supply: ~66 million
+* Current supply: ~67 million
 
 Block explorers:
 
@@ -68,7 +68,9 @@ Mining pools:
 
 # Partners
 
-* Daniela's Promo Network
+Titcoin partners are organizations, websites and individuals who accept Titcoin payments for their products and services. You can find an up-to-date list here:
+
+[https://github.com/titcoin/doc/wiki/Partners](https://github.com/titcoin/doc/wiki/Partners)
 
 # FAQ
 
