@@ -1,8 +1,8 @@
 ## Titcoin Wallet
 
-This site is about the [Titcoin wallet by Gandalf86](https://bitcointalk.org/index.php?topic=5018869.0). For info about the Titcoin project in general, please visit https://www.titcoinproject.org/!
+This site is about the [Titcoin wallet by Gandalf86](https://bitcointalk.org/index.php?topic=5018869.0). For info about the Titcoin project in general, please visit [https://www.titcoinproject.org](https://www.titcoinproject.org/)!
 
-You can find the source code of the Titcoin wallet on Github: https://github.com/titcoin/titcoin
+You can find the source code of the Titcoin wallet on Github: [https://github.com/titcoin/titcoin](https://github.com/titcoin/titcoin)
 
 ### Download
 
@@ -26,4 +26,4 @@ PGP signatures coming soon.
 
 ### Documentation
 
-See https://github.com/titcoin/doc/wiki
+See [https://github.com/titcoin/doc/wiki](https://github.com/titcoin/doc/wiki)
