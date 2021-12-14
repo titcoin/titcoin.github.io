@@ -13,7 +13,9 @@ Stable version: 0.16.3 Update 5
 * Mac OS: [Titcoin-0.16.3.5.dmg](https://github.com/titcoin/titcoin/releases/download/v0.16.3-titcoin5/Titcoin-0.16.3.5.dmg)
 * Linux: [titcoin-0.16.3.5.tar.gz](https://github.com/titcoin/titcoin/releases/download/v0.16.3-titcoin5/titcoin-0.16.3.5.tar.gz)
 
-### Hash sums
+### Verification
+
+SHA256 sums:
 
 ```
 61024982e12388f0f219a16a4de6214e01ef16b8c05ead243fe1f2b388755569  Titcoin-0.16.3.5.dmg
